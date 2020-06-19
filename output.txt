@@ -1,0 +1,12 @@
+are    : 1
+five   : 1
+four   : 1
+is     : 1
+number : 1
+one    : 1
+short  : 1
+six    : 1
+this   : 2
+three  : 1
+two    : 1
+very   : 1

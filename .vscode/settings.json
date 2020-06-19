@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hw3.h": "c",
+        "challenge.h": "c",
+        "unistd.h": "c"
+    }
+}
